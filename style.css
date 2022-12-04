@@ -1,0 +1,9 @@
+div {
+    max-width: 87.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: uppercase;
+    background-color:#ba1d0e ;
+    border-top-left-radius: ;
+}
